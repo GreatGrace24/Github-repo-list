@@ -1,0 +1,56 @@
+
+
+markdown
+ GitHub Repositories Portfolio
+
+This web application is designed to showcase GitHub repositories in a user-friendly portfolio format. It utilizes the GitHub API to fetch and display repository data, including details like the repository name, description, and programming language used. The app features pagination, search, and filter capabilities, as well as detailed views for individual repositories.
+
+ Features
+
+- List all GitHub repositories with pagination.
+- Search and filter functionality for the repositories list.
+- Detailed view for individual repository information.
+- Error handling with a custom error boundary.
+- Responsive and accessible UI design.
+
+ Installation
+
+To get started with this project, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/YourUsername/github-repo-portfolio.git
+cd github-repo-portfolio
+npm install
+```
+
+Usage
+
+To run the application locally:
+
+```bash
+npm start
+```
+
+Navigate to `http://localhost:3000` in your web browser to view the application.
+
+Contributing
+
+Contributions are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! Thanks again!
+
+License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+ Contact
+
+Grace Abiodun - [@graceeverful](https://twitter.com/graceeverful)
+
+Project Link: [https://github.com/greatgrace24/github-repo-portfolio](https://github.com/greatgrace24/github-repo-portfolio)
+
+Acknowledgments
+
+- [Chakra UI](https://chakra-ui.com/) for providing a great UI framework.
+- [React Router](https://reactrouter.com/) for easy routing.
+- All contributors who participate in this project.
